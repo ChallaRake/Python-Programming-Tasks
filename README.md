@@ -12,8 +12,7 @@ This repository contains a collection of Python programming tasks that I have co
 - File Handling
 - Exception Handling
 - Object-Oriented Programming (OOP)
-- Modules and Packages
-- Working with Libraries (e.g., `datetime`, etc.)
+
 
 ## 🗂️ Folder Structure
 
